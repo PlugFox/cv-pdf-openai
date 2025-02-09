@@ -1,0 +1,6 @@
+{
+    "error": {
+        "code": "problem_code",
+        "message": "Description of the problem"
+    }
+}

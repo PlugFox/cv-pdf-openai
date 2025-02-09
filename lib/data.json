@@ -1,0 +1,25 @@
+{
+    "data": {
+        "name": "John Doe",
+        "age": 25,
+        "position": "Developer",
+        "contacts": [
+            {
+                "type": "contact type (e.g. email, phone)",
+                "value": "1234567890"
+            }
+        ],
+        "sections": [
+            {
+                "type": "section type (e.g. education, experience)",
+                "items": [
+                    {
+                        "title": "Title",
+                        "subtitle": "Subtitle",
+                        "content": "Content"
+                    }
+                ]
+            }
+        ]
+    }
+}
